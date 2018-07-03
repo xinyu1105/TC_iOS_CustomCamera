@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  systemCameraVC.h
 //  customCamera
 //
 //  Created by scott on 16/9/12.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property(nonatomic,weak)IBOutlet UITableView* cameraTableView;
-@end
+@interface systemCameraVC : UIViewController
 
+@end
